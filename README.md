@@ -3,3 +3,4 @@ The repository consists of all the data science projects that I have worked on t
 
 ## Projects:
 - Stock Price Prediction
+- Titanic Survival Prediction
