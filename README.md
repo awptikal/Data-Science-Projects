@@ -1,5 +1,5 @@
 # Data-Science-Projects
-The repository consists of all the data science projects that I have worked on that will be done in two different programming languages, in order to maximize learning experience and retain knowledge of both R and Python consistently.
+The repository consists of all the data science projects that I have worked on and are done in either R or Python. Also, there is some example on other tools and languages that are used in data science such as SQL, git and command line stuff.
 
 ## Projects:
 - Stock Price Prediction
