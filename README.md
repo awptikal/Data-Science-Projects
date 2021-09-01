@@ -1,5 +1,5 @@
 # Data-Science-Projects
-The repository consists of all the data science projects that I have worked on and are done in  Python. The order below (ascending) is the order of which each project was completed and hopefully as we venture further down the projects, my programming/report writing will improve.
+The repository consists of all the data science projects that I have worked on and are done in Python.
 
 ## Projects [Python]:
 - [Stock Price Prediction](https://nbviewer.jupyter.org/github/ywuhub/Data-Science-Projects/blob/master/Stock%20Price%20Prediction%20Project/Stock%20Prediction.ipynb)
